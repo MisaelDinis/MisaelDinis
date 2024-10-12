@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Misael Dinis</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Power BI e Excel* *
+- 🌱 Cientista de Dados, atualmente trabalhando em ETL como **Analista de Importação de Dados* *
 
-- 💬 Me pergunte sobre **Power BI, Excel**
+- 💬 Me pergunte sobre **Python, Excel, VBA, SQL e Machine Learning**
 
 - 📫 Você me encontra através de **contato-misaeldinis@hotmail.com**
 
