@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Misael Dinis</h1>
-<h3 align="center">Apaixonado por Ciência e Análise de Dados</h3>
+<h3 align="center">Cientista de Dados</h3>
 
-- 🌱 Cientista de Dados, atualmente trabalhando em ETL como **Analista de Importação de Dados* *
+- 🌱 Atualmente trabalhando em ETL como **Analista de Importação de Dados* *
 
 - 💬 Me pergunte sobre **Python, Excel, VBA, SQL e Machine Learning**
 
-- 📫 Você me encontra através de **contato-misaeldinis@hotmail.com**
-
-- 📄 Minhas experiências no Linkedin [https://www.linkedin.com/in /misael-dinis-7a58a1140/](https://www.linkedin.com/in/misael-dinis-7a58a1140/)
+- 📫 Você me encontra no Linkedin através de: [https://www.linkedin.com/in /misael-dinis-7a58a1140/](https://www.linkedin.com/in/misael-dinis-7a58a1140/)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left" ">
